@@ -1,3 +1,4 @@
+
 import ReactDOM from "react-dom/client";
 import "./index.css";
 import App from "./App";
@@ -12,7 +13,7 @@ import {
   faBookOpen,
   faTags,
   faStar,
-  faStarHalfAlt,
+   faStarHalfAlt,
   faArrowLeft,
 } from "@fortawesome/free-solid-svg-icons";
 
